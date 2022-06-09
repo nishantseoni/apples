@@ -1,0 +1,56 @@
+body {
+    width:100%;
+    background-image: linear-gradient(to top right, rgb(70, 70, 170), rgb(168, 168, 223));
+    
+}
+.header-background {
+    background: url(../Images/background.jpg);
+    height: 200px;
+
+}
+.profile-image {
+    position:absolute;
+       width: 15%;
+    height: 25%;
+
+}
+.titletext {
+    font-family: 'Hind Madurai', sans-serif;
+    color: white;
+    font-size: 48pt;
+    border-color: azure;
+    padding: 15px;
+}
+
+.first-page-text {
+    background-image: linear-gradient(to top right, rgb(55, 83, 126), rgb(134, 142, 232));
+    color: azure;
+    font-family: 'Hind Madurai', sans-serif;
+}
+
+.nav-color {
+    background-image: linear-gradient(to top right, rgb(77, 77, 129), rgb(63, 63, 111));
+    color: azure;
+}
+
+.about-text {
+    background-color: blanchedalmond;
+    color:black;
+    font-family: 'Radio Canada', sans-serif;
+    border-width: 2px;
+    padding: 5px;
+    background-image: linear-gradient(to top right, rgb(58, 58, 135), rgb(43, 84, 173));
+}
+.nav-links {
+    background-image: repeating-radial-gradient(red, blue );
+    color: azure;
+}
+
+.email-link {
+    font-family: 'Hind Madurai', sans-serif;
+    color: white;
+}
+
+.email-text {
+    color: lightgray;
+}
